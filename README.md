@@ -11,4 +11,4 @@ im interested in analog eletronics, diy tech, all things hardware, integrated ci
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kszdom&layout=compact&hide=SWIG&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kszdomagh&layout=compact&hide=SWIG&theme=dark)
