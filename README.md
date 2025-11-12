@@ -1,8 +1,8 @@
 hi, im kszdom
 
-im currently studying microelectronics in technology and medicine at AGH university of krakow
+currently pursuing a degree in microelectronics at AGH UST
 
-im interested in analog electronics, diy tech, all things hardware, integrated circuits fabrication processes, circuit bending and opto-electrical interfaces
+interested in analog electronics, DIY tech, FPAAs, IC fabrication processes, and opto-electrical interfaces.
 
 
 
